@@ -15,7 +15,7 @@ section{
     height: 100vh;
 }
 section.sec1{
-   background-image: url(./assets/img/bg.jpg);
+   background-image: url(./assets/img/bg.jpeg);
    background-size: cover;
 }
 section.sec2{
@@ -37,7 +37,7 @@ section.sec2 p{
 }
 
 section.sec3{
-    background-image: url(./assets/img/bg.jpg);
+    background-image: url(./assets/img/bg2.jpg);
     background-size: cover;
  }
 
